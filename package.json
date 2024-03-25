@@ -1,7 +1,23 @@
 {
   "name": "nest-redis-config",
   "version": "1.0.0",
-  "description": "",
+  "description": "An alternative to the @nestjs/config package which uses redis to store data, so ur able to share that data across your Microservices.",
+  "author": "Uhmpasterig",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uhmpasterig/nest-redis-config"
+  },
+  "bugs": {
+    "url": "https://github.com/uhmpasterig/nest-redis-config/issues"
+  },
+  "private": false,
+  "keywords": [
+    "nestjs",
+    "config",
+    "redis",
+    "typescript"
+  ],
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
@@ -12,9 +28,6 @@
     "build": "rimraf dist && tsc",
     "prepublish": "npm run build"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "@nestjs/common": "^10.3.5",
     "@nestjs/microservices": "^10.3.5",
