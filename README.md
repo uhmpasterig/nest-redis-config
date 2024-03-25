@@ -13,7 +13,7 @@
 </p>
 
 ## Example
-The example Microservice can be found [here] (https://github.com/uhmpasterig/config-microservice-example).
+The example Microservice can be found [here](https://github.com/uhmpasterig/config-microservice-example).
 
 ## Benefits
 
