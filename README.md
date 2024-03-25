@@ -12,6 +12,9 @@
 <a href="https://www.npmjs.com/package/nest-redis-config"><img src="https://img.shields.io/npm/v/nest-redis-config" alt="NPM version"></a>
 </p>
 
+## Example
+The example Microservice can be found [here] (https://github.com/uhmpasterig/config-microservice-example).
+
 ## Benefits
 
 - **Shared Configuration**: By using Redis as a central store for configuration, you can easily share configuration data across multiple microservices.
