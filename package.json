@@ -1,6 +1,6 @@
 {
   "name": "nest-redis-config",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "An alternative to the @nestjs/config package which uses redis to store data, so ur able to share that data across your Microservices.",
   "author": "Uhmpasterig",
   "license": "MIT",
