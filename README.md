@@ -1,16 +1,19 @@
 # Nestjs Redis Config
 
 <p align="center">
-  An alternative to the <a href="https://github.com/nestjs/config">@nestjs/config</a> package which uses <a href="https://github.com/redis/redis">Redis</a> to store data, so ur able to share that data across your Microservices.
+  A Nest.js package to store and get configuration, which uses <a href="https://github.com/redis/redis">Redis</a> to store data, so ur able to share that data across your Microservices.
 </p>
 
 <p align="center">
 <a href="https://github.com/uhmpasterig/nest-redis-config/issues"><img src="https://img.shields.io/github/issues/uhmpasterig/nest-redis-config" alt="GitHub issues"></a>
 <a href="https://github.com/uhmpasterig/nest-redis-config/network"><img src="https://img.shields.io/github/forks/uhmpasterig/nest-redis-config" alt="GitHub forks"></a>
 <a href="https://github.com/uhmpasterig/nest-redis-config/stargazers"><img src="https://img.shields.io/github/stars/uhmpasterig/nest-redis-config" alt="GitHub stars"></a>
-<a href="https://github.com/uhmpasterig/nest-redis-config/blob/master/LICENSE"><img src="https://img.shields.io/github/license/uhmpasterig/nest-redis-config" alt="GitHub license"></a>
+<a href="https://github.com/uhmpasterig/nest-redis-config/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/uhmpasterig/nest-redis-config" alt="GitHub license"></a>
 <a href="https://www.npmjs.com/package/nest-redis-config"><img src="https://img.shields.io/npm/v/nest-redis-config" alt="NPM version"></a>
 </p>
+
+## Example
+The example Microservice can be found [here](https://github.com/uhmpasterig/config-microservice-example).
 
 ## Benefits
 
